@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-de-redux/static/css/main.cf54eb25.chunk.css",
+    "main.js": "/curso-de-redux/static/js/main.a81c9cf0.chunk.js",
+    "main.js.map": "/curso-de-redux/static/js/main.a81c9cf0.chunk.js.map",
+    "runtime-main.js": "/curso-de-redux/static/js/runtime-main.b08f2e4a.js",
+    "runtime-main.js.map": "/curso-de-redux/static/js/runtime-main.b08f2e4a.js.map",
+    "static/js/2.bfecfe1a.chunk.js": "/curso-de-redux/static/js/2.bfecfe1a.chunk.js",
+    "static/js/2.bfecfe1a.chunk.js.map": "/curso-de-redux/static/js/2.bfecfe1a.chunk.js.map",
+    "index.html": "/curso-de-redux/index.html",
+    "precache-manifest.2054538f6ff54990e5d4aa0acbd8e84b.js": "/curso-de-redux/precache-manifest.2054538f6ff54990e5d4aa0acbd8e84b.js",
+    "service-worker.js": "/curso-de-redux/service-worker.js",
+    "static/css/main.cf54eb25.chunk.css.map": "/curso-de-redux/static/css/main.cf54eb25.chunk.css.map",
+    "static/js/2.bfecfe1a.chunk.js.LICENSE.txt": "/curso-de-redux/static/js/2.bfecfe1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b08f2e4a.js",
+    "static/js/2.bfecfe1a.chunk.js",
+    "static/css/main.cf54eb25.chunk.css",
+    "static/js/main.a81c9cf0.chunk.js"
+  ]
+}
